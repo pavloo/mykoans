@@ -23,3 +23,21 @@ class AboutTriangleProject < EdgeCase::Koan
   end
 end
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
